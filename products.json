@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "61ecec1efbf1802a8c87dada"
+  }
+},{
+  "_id": {
+    "$oid": "61ececa9fbf1802a8c87dadb"
+  },
+  "name": "swetha",
+  "id": "2076455",
+  "employee_salary": "26399",
+  "age": "21"
+},{
+  "_id": {
+    "$oid": "61ececd7fbf1802a8c87dadc"
+  },
+  "name": "arjun",
+  "id": "2076454",
+  "employee_salary": "26399",
+  "age": "21"
+},{
+  "_id": {
+    "$oid": "61eced0bfbf1802a8c87dadd"
+  },
+  "name": "nandini",
+  "id": "2076424",
+  "employee_salary": "29399",
+  "age": "22"
+},{
+  "_id": {
+    "$oid": "61eced3afbf1802a8c87dade"
+  },
+  "name": "ramm",
+  "id": "2076414",
+  "employee_salary": "29399",
+  "age": "22"
+}]

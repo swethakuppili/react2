@@ -1,0 +1,23 @@
+{
+    "destinations": [
+      {
+        "id": 1,
+        "title": "Goa",
+        "summary": "Sun bathing & parties"
+      },
+      {
+        "id": 2,
+        "title": "Manipur",
+        "summary": "Amazing nature & mountains"
+      },
+      {
+        "id": 3,
+        "title": "Kovalam",
+        "summary": "Best beaches in India"
+      },
+      {
+        "summary": "test summary",
+        "id": 4
+      }
+    ]
+}
