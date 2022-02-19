@@ -1,0 +1,67 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "title": "Goa",
+      "summary": "Sun bathing & parties"
+    },
+    {
+      "id": 2,
+      "title": "Manipur",
+      "summary": "Amazing nature & mountains"
+    },
+    {
+      "id": 3,
+      "title": "Kovalam",
+      "summary": "Best beaches in India"
+    },
+    {
+      "summary": "test summary",
+      "id": 4
+    }
+  ],
+  "universities": [
+    {
+      "id": 1,
+      "country": "India",
+      "state-province": "UK",
+      "name": "DIT"
+    },
+    {
+      "name": "test",
+      "country": "India",
+      "state-province": "Delhi",
+      "id": 2
+    },
+    {
+      "name": "test2",
+      "country": "India",
+      "state-province": "Delhi",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "country": "dsgsd",
+      "state-province": "test",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "country": "test",
+      "state-province": "test",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "country": "tes",
+      "state-province": "test",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "country": "test",
+      "state-province": "test",
+      "id": 7
+    }
+  ]
+}
